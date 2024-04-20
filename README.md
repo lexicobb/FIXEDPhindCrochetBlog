@@ -1,2 +1,2 @@
 # FIXEDPhineCrochetBlog
-Crochet blog created by Phine after fixing wave accessibility errors
+Crochet blog created by Phind after fixing wave and a-checker accessibility errors
